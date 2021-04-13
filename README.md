@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![thej's GitHub stats](https://github-readme-stats.vercel.app/api?username=thej&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
+![thej's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thej&show_icons=true&layout=compact&theme=radical)
+
+
+
 <!--
 **thej/thej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
