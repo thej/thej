@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-![thej's GitHub stats](https://github-readme-stats.vercel.app/api?username=thej&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
-![thej's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thej&show_icons=true&layout=compact&theme=radical)
-
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thej&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="thej's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej&show_icons=true&layout=compact&theme=radical" alt="thej's GitHub stats" />
+</p>
 
 <!--
 **thej/thej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
