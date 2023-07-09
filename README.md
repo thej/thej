@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thej&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="thej's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej&show_icons=true&layout=compact&theme=radical" alt="thej's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thej&show_icons=true&include_all_commits=true&count_private=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="thej's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thej&show_icons=true&layout=compact&theme=radical" alt="thej's GitHub stats" />
 </p>
 
 <!--
